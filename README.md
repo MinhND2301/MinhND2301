@@ -1,11 +1,11 @@
 <h2> Hi, I'm Nguyen Duy Minh!</h2>
-<p><em>Aspiring AI Engineer with solid expertise in developing, fine-tuning, and deploying AI models, including Large Language Models
-(LLMs).
+<p><em>
+I am an AI Engineer with expertise in developing, fine-tuning, and deploying AI models, including Compluter Vision (CV) and Large Language Models (LLMs). With hands-on experience in both academic and professional environments, I specialize in model optimization, backend development, and the implementation of intelligent systems. I'm eager to contribute to innovative AI projects!
 </em></p>
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg1OTFvNzJldHF0emx1Z2ZjazFlamR5dnVoM255bXp3ODY5dXZjbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width="30"> About me...  
 
 ```javascript
 MinhND2301 = {
@@ -27,7 +27,21 @@ MinhND2301 = {
 }
 
 ```
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### 🛠️ Core Competencies
+
+- **Technologies**: LLMs, RAG, Transformers, Vector Databases, Open-source models, MLOps, APIs.  
+- **Frameworks**: PyTorch, TensorFlow, LangChain, Llama-Index, LangGraph, HuggingFace, FastAPI, MongoDB.  
+- **Skills**: Multi-step reasoning, Tool calling, Deep Learning.
+---
+### 🔗 Contact Me
+<img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif?cid=790b7611eh591o72etqtzlugfck1ejdyvuh3nymzw869uvcn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+- Feel free to reach out for any collaboration or AI-related projects!<b>
+
+- **Email**: [ngduyminh2301@gmail.com](mailto:ngduyminh2301@gmail.com)   
+
+![Contact GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
