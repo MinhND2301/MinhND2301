@@ -17,13 +17,7 @@ MinhND2301 = {
         "Cyno Software Company": "AI Engineer",
         "Amazing Technology and Solution Company Limited": "Intern AI Engineer",
         "FPT University": "Student"
-    },
-    "projects": {
-        "POCY": "Developed robust backend for detecting scam/spam activities using FastAPI and custom Transformers for system and data security",
-        "Customer care Chatbot": "Contributed to the design LLM system and implementation of a RAG chatbot for company customer support"
-    },
-    "tools": ["Selenium", "Docker","Git"],
-
+    }
 }
 
 ```
