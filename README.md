@@ -14,7 +14,7 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 - **Current Focus:** Driving internal AI initiatives at **FPT Software**.
 - **Passion:** Building scalable data infrastructure and orchestrating complex AI workflows.
 - **Off-duty:** Intermediate pianist and succulent enthusiast.
-- **Sports:** Avid badminton player.
+- **Sports:** Passionate badminton player.
 
 ---
 
@@ -57,19 +57,38 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 
 ---
 
+### Professional Journey
+
+#### **FPT Software** | AI Engineer
+*March 2026 – Present*
+> Leading internal AI initiatives to automate complex organizational workflows and enhance productivity via Large Language Models.
+
+#### **Agri Sung Joint Stock Company** | AI Engineer
+*Mar 2025 – Sep 2025*
+* **Intelligence Automation:** Leveraged **Gemini** to transform unstructured web data into structured insights.
+* **Conversational RAG:** Developed a sales-focused AI agent using Weaviate and PostgreSQL.
+* **Workflow Orchestration:** Managed end-to-end data pipelines using **Apache Airflow**.
+
+#### **Cyno Software Company** | AI Engineer
+*Jan 2024 – Jan 2025*
+* **NLP & Fraud:** Fine-tuned **PhoBERT** for high-accuracy transaction fraud detection.
+* **AI Analyst:** Built an autonomous LLM system for data querying and executive summarization.
+
+---
+
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhnd2301&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnd2301&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhND2301&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhND2301&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhnd2301&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhND2301&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhnd2301/minhnd2301/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MinhND2301/MinhND2301/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -77,7 +96,7 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 ### Education
 
 - **FPT University** | *Bachelor of Artificial Intelligence & Data Science*
-- **Capstone Project:** Applied AI for HR – Integrated **OCR** and **Neo4j Knowledge Graphs** for intelligent candidate-job matching.
+- **Capstone Project:** HR Intelligence – OCR + Neo4j Knowledge Graphs for automated candidate-to-job matching.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
