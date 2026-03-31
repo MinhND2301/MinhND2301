@@ -1,83 +1,84 @@
-# Hi, I'm Nguyen Duy Minh! 👋
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Duy+Minh;AI+Engineer;Data+Science+Specialist;Building+Intelligent+Agents" alt="Typing SVG" /> </p>
 
-**AI Engineer & Data Science Graduate** based in Ho Chi Minh City, Vietnam.
-I specialize in building intelligent agents, scalable data infrastructure, and orchestrating complex AI workflows.
+<p align="center">
+  <a href="https://www.linkedin.com/in/minhnd2301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ngduyminh2301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I bridge the gap between raw data and actionable AI insights. My expertise lies in the full project lifecycle—from designing **ETL/ELT pipelines** to deploying **LLM-powered agents** and **RAG systems**. Currently, I am driving innovation at **FPT Software** on internal AI initiatives.
+I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging the gap between raw data and actionable AI insights. My expertise spans the full project lifecycle—from designing robust **ETL/ELT pipelines** to deploying **LLM-powered agents** and **RAG systems**.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Nguyen Duy Minh"
-        self.role = "AI Engineer"
-        self.current_focus = "Internal AI Projects at FPT Software"
-        self.location = "Ho Chi Minh City, Vietnam"
+- **Current Focus:** Driving internal AI initiatives at **FPT Software**.
+- **Passion:** Building scalable data infrastructure and orchestrating complex AI workflows.
+- **Off-duty:** Intermediate pianist and succulent enthusiast.
+- **Sports:** Avid badminton player.
 
-    def get_stack(self):
-        return {
-            "Core": ["Python", "SQL", "PySpark"],
-            "AI & LLM": ["LangChain", "RAG", "Gemini", "OpenAI", "HuggingFace"],
-            "Data Ops": ["Apache Airflow", "Airbyte", "Docker", "Git"],
-            "Databases": ["Weaviate (Vector)", "Neo4j (Graph)", "PostgreSQL", "BigQuery"]
-        }
+---
 
-me = AIEngineer()
-````
+### Technical Arsenal
 
------
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Core & Data</strong></td>
+    <td align="center" width="25%"><strong>Generative AI</strong></td>
+    <td align="center" width="25%"><strong>Databases</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="top">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
+      <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    </td>
+    <td align="top">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    </td>
+    <td align="top">
+      <img src="https://img.shields.io/badge/Weaviate-13294B?style=for-the-badge&logo=weaviate&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    </td>
+    <td align="top">
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Technical Expertise
+---
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Generative AI** | LLM Agents, RAG Pipelines, Semantic Extraction, Vector Embeddings |
-| **Data Engineering** | Workflow Orchestration (Airflow), ETL/ELT (Airbyte), Web Scraping (Selenium) |
-| **Backend & APIs** | FastAPI, RESTful APIs, Microservices |
-| **Databases** | Weaviate, Neo4j, MongoDB, PostgreSQL, BigQuery |
+### GitHub Stats & Activity
 
------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhnd2301&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnd2301&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
-### 💼 Work Experience
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhnd2301&theme=radical&hide_border=true" />
+</p>
 
-#### **FPT Software**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minhnd2301/minhnd2301/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-**AI Engineer (Internal AI Project)**
+---
 
-  * *Current Role* – Developing internal AI solutions to optimize organizational workflows.
+### Education
 
-#### **Agri Sung Joint Stock Company**
+- **FPT University** | *Bachelor of Artificial Intelligence & Data Science*
+- **Capstone Project:** Applied AI for HR – Integrated **OCR** and **Neo4j Knowledge Graphs** for intelligent candidate-job matching.
 
-**AI Engineer** | *Mar 2025 – Sep 2025*
-
-  * **Exhibitor Intelligence:** Automated data enrichment using **LLMs (Gemini)** to extract structured insights from unstructured web data.
-  * **Conversational AI:** Built a **RAG-based Sales Agent** using Weaviate and PostgreSQL to provide accurate, data-grounded product answers.
-  * **Automated Reporting:** Engineered end-to-end **Airflow pipelines** to deliver marketing analytics from Looker Studio to Lark.
-
-#### **Cyno Software Company**
-
-**AI Engineer** | *Jan 2024 – Jan 2025*
-
-  * **Fraud Detection:** Deployed **Transformer models (PhoBERT)** and custom preprocessing pipelines to identify fraud patterns in large-scale transactional data.
-  * **AI Analyst Agent:** Architected an **LLM-powered system** capable of querying data and generating summaries, significantly reducing manual analysis time.
-
------
-
-### 🎓 Education
-
-**FPT University** | *Bachelor of Artificial Intelligence & Data Science*
-
-  * **Capstone:** Applied AI for Human Resources – Integrated **OCR** and **Knowledge Graphs (Neo4j)** for intelligent candidate-job matching.
-
------
-
-### 📫 Connect with Me
-
-[](https://www.google.com/search?q=https://www.linkedin.com/in/minhnd2301)
-[](mailto:ngduyminh2301@gmail.com)
-
-```
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
