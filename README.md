@@ -76,7 +76,11 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 
 ---
 
-### GitHub Stats & Activity
+### 📊 GitHub Stats & Gamification
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MinhND2301&theme=radical&no-frame=true&column=4" alt="github trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhND2301&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
@@ -84,11 +88,7 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhND2301&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MinhND2301/MinhND2301/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhND2301&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
