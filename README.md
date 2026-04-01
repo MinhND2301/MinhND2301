@@ -76,14 +76,14 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 
 ---
 
-### 📊 GitHub Stats & Gamification
+### 📊 GitHub Stats & Skills
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhND2301&theme=radical&no-frame=true&column=4" alt="github trophies" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,postgres,mongodb,docker,git,pyspark,airflow,svg,bash&perline=11" alt="My Skills" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhND2301&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhND2301&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhND2301&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
