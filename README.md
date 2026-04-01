@@ -76,19 +76,18 @@ I am an **AI Engineer** based in **Ho Chi Minh City**, specializing in bridging 
 
 ---
 
-### 📊 GitHub Stats & Skills
+### Engineering Stats & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,postgres,mongodb,docker,git,pyspark,airflow,svg,bash&perline=11" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,postgres,mongodb,docker,git,svg,bash,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhND2301&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhND2301&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhND2301&theme=rose_pine&hide_border=true&v=2026" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhND2301&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhND2301&theme=dracula&hide_border=true&area=true&color=ff79c6" width="100%" />
 </p>
 
 ---
